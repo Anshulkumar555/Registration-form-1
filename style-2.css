@@ -1,0 +1,29 @@
+.style {
+  border: 2px solid;
+  background-image: url("background5.jpg");
+}
+.first {
+  margin-left: 10px;
+}
+.second {
+  margin-left: 10px;
+}
+.three {
+  margin-left: 10px;
+}
+.four {
+  margin-left: 10px;
+}
+.five {
+  margin-left: 10px;
+}
+.six {
+  margin-left: 10px;
+}
+.seven {
+  margin-left: 10px;
+}
+em {
+  font-style: italic;
+  font-weight: bolder;
+}
